@@ -1,0 +1,24 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore build artifacts
+DebugConfig/
+Listings/
+Objects/
+*.o
+*.d
+*.map
+*.hex
+*.axf
+*.htm
+*.lnp
+*.sct
+*.dep
+
+# Ignore IDE-specific files (for Keil uVision)
+*.uvguix.*
+*.uvoptx
+# *.uvprojx
+
+# Ignore auto-generated RTE files
+RTE/

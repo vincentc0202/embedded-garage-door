@@ -7,9 +7,9 @@ An automatic smart garage door system powered by an STM32L4x6 ARM microcontrolle
 This project, developed by **Vincent Cheong** and **Jason Wang**, integrates embedded systems and communication protocols to create a smart garage door that can be remotely controlled via Bluetooth and responds dynamically to environmental conditions.  
 
 ## Images
-![Garage Door](public/garage-door.png)
-![Garage Door 2](public/garage-door2.png)
-[Garage Door 3](public/garage-door3.jpeg)
+<img src="public/garage-door.png" width="300" height="200"/>
+<img src="public/garage-door2.png" width="300" height="200"/>
+<img src="public/garage-door3.png" width="300" height="200"/>
 
 ## Features  
 
